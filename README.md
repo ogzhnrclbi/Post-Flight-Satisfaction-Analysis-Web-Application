@@ -1,2 +1,3 @@
 # Post-Flight-Satisfaction-Analysis-Web-Application
 Bu proje, havayolu şirketlerinin uçuş sonrası müşteri memnuniyetini analiz etmek için geliştirilmiş bir web uygulamasıdır. Makine öğrenmesi teknikleri kullanarak, müşteri geri bildirimlerini ve anket verilerini analiz eder ve memnuniyeti tahmin eder. 
+Ana Özellikler: Veri Toplama: Uçuş sonrası müşteri geri bildirimleri toplanır. Veri İşleme: Veriler temizlenir ve analiz için hazırlanır. Makine Öğrenmesi: Memnuniyeti tahmin eden modeller eğitilir ve değerlendirilir. Tahmin ve Analiz: Müşteri memnuniyeti tahmin edilir ve raporlanır. Görselleştirme: Sonuçlar grafikler ve raporlarla sunulur. Bu uygulama, havayolu şirketlerinin müşteri memnuniyetini artırmak için veri temelli kararlar almasına yardımcı olur.
